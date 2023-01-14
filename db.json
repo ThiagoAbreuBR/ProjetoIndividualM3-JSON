@@ -1,0 +1,99 @@
+{
+  "FilmesemCartaz": [
+    {
+      "id": 1,
+      "titulo": "Interrestelar",
+      "genero": "Ficção científica/Aventura",
+      "diretor": "Christopher Nolan",
+      "classificacao": "12 anos"
+    },
+
+    {
+      "id": 2,
+      "titulo": "A Teoria de Tudo",
+      "genero": "Romance/Drama",
+      "diretor": "James Marsh",
+      "classificacao":"10 anos"
+    },
+
+    {
+      "id": 3,
+      "titulo": "Contato",
+      "genero": "Ficção científica",
+      "diretor": "Robert Zemeckis",
+      "classificacao":"10 anos"
+    },
+
+    {
+      "id": 4,
+      "titulo": "O Jogo da Imitação",
+      "genero": "Guerra/Drama",
+      "diretor": "Morten Tyldum",
+      "classificacao":"12 anos"
+    }
+  ],
+  
+  "salas": [
+    {
+      "id": 1,
+      "tamanho": "Pequena",
+      "modo tela": "2D",
+      "modo exibicao": "Dublado"
+    },
+
+    {
+      "id": 2,
+      "tamanho": "Média",
+      "modo tela": "2D",
+      "modo exibicao": "Legendado"
+    },
+
+    {
+      "id": 3,
+      "tamanho": "Grande",
+      "modo tela": "3D",
+      "modo exibicao": "Dublado"
+    },
+
+    {
+      "id": 4,
+      "tamanho": "Grande",
+      "modo tela": "IMAX",
+      "modo exibicao": "Dublado"
+    }
+  ],
+
+   "proximosLancamentos": [
+    {
+      "id": 1,
+      "titulo": "Se7en - Os Sete Crimes Capitais",
+      "genero": "Crime/Mistério",
+      "diretor": "David Fincher",
+      "classificacao":"14 anos"
+    },
+
+    {
+      "id": 2,
+      "titulo": "Forrest Gump - O Contador de Histórias",
+      "genero": "Romance/Drama",
+      "diretor": "Robert Zemeckis",
+      "classificacao":"14 anos"
+    },
+
+    {
+      "id": 3,
+      "titulo": " Ilha do Medo",
+      "genero": "Thriller/Mistério",
+      "diretor": "Martin Scorsese",
+      "classificacao":"16 anos"
+    },
+
+    {
+      "id": 4,
+      "titulo": "Coringa",
+      "genero": "Suspense/Crime",
+      "diretor": "Todd Phillips",
+      "classificacao":"16 anos"
+    }
+  ]
+}
